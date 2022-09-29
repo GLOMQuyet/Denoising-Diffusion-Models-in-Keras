@@ -3,10 +3,11 @@ In this article we will go through the code from start to finish with DDPM using
 
 Example 1:
 
-
 ![Alt Text](https://github.com/GLOMQuyet/Denoising-Diffusion-Models-in-Keras/blob/main/dm.gif)
 
 Example 2:
+
+![Alt Text](https://github.com/GLOMQuyet/Denoising-Diffusion-Models-in-Keras/blob/main/test2.gif)
 
 ## Instructions on how to use
 
