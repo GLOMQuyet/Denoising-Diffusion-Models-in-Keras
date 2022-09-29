@@ -1,7 +1,7 @@
 # Denoising-Diffusion-Models-in-Keras
 Article deployment code https://arxiv.org/abs/2006.11239
 In this article we will go through the code from start to finish with DDPM using keras . In the test I will try with fashion_mnist.
-
+To understand the diffusion model . Please check out my series blog. ![Diffussion](https://viblo.asia/tags/diffusion-model)
 Example 1:
 
 ![Alt Text](https://github.com/GLOMQuyet/Denoising-Diffusion-Models-in-Keras/blob/main/dm.gif)
